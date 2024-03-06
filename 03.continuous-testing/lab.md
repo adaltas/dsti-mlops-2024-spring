@@ -23,7 +23,7 @@ Below are two ways how this can be done. Both examples are based on the example 
 
 NOTE: If running `pytest` doesn't work, try running `python -m pytest` instead.
 
-#### Fuctions and tests in the same file
+### Fuctions and tests in the same file
 
 1. Create a folder `unit_testing_simple`.
 2. In the folder create a file `test_sample.py`.
@@ -64,13 +64,13 @@ FAILED test_sample.py::test_answer - assert 4 == 5
 
 7. Try to understand what it means. Help yourself with the documentation.
 
-#### Fuctions and tests are separated
+### Fuctions and tests are separated
 
 Having the functions and the tests in the same file is not a good practice. It works well for short learning examples, but it leads to unreadable projects in real life.
-Therefore, we need to split the functions and the tests to separate files to oproperly rganize a project.
+Therefore, we need to split the functions and the tests to separate files to properly organize a project.
 
 1. Create a folder `unit_testing_best_practice`.
-2. Inside, create two subfolders on the same level: `src`, `test`. All the functions will be saved to the `src` folsed and all the tests to `test` folder.
+2. Inside, create two subfolders on the same level: `src`, `test`. All the functions will be saved to the `src` folder and all the tests to `test` folder.
 3. In `src`, create a file `sample.py`. 
 4. Inside, copy the function `func` from [Create your first test](https://docs.pytest.org/en/7.0.x/getting-started.html#create-your-first-test).
 
@@ -102,7 +102,7 @@ sys.path += ['../src']
 from sample import *
 
 def test_answer():
-    assert inc(3) == 5
+    assert func(3) == 5
 ```
 
 9. In the terminal, go to the `unit_testing_best_practice/test`.
@@ -111,7 +111,7 @@ def test_answer():
 
 ## Unit testing
 
-Imagine you are developing an application, where users need to register. They need to fill in their get username, email and password.
+Imagine you are developing an application, where users need to register. They need to fill in their username, email and password.
 
 Your job is to write the functions that will accept those parameters from the user input (in command line) and test if they follow the criteria:
 
