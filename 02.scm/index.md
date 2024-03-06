@@ -108,7 +108,8 @@ So far:
 
 ![Merge vs Rebase](image/merge-vs-rebase.jpg)
 
-Read this [article on Medium](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c).
+Read this [article](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+and/or this [article](https://www.gitkraken.com/learn/git/problems/git-rebase-vs-merge).
 
 ## OpenSource Project Management
 
