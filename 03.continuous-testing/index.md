@@ -88,3 +88,5 @@ Continuous Testing is the process of executing automated tests as part of the so
 ## References
 
 - [What is continuous testing?](https://www.ibm.com/cloud/learn/continuous-testing)
+- [Test-Driven Development with Python (O'Reilly)](https://learning.oreilly.com/library/view/test-driven-development-with/9781491958698/)
+- [Test-Driven Develoopment with Python (free)](http://www.obeythetestinggoat.com/pages/book.html#toc)
