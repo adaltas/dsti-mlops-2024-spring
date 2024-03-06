@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adaltas/Documents/teaching_material/mlops/modules/08.experiment-tracking/lab-resources/mlruns/0/983c0166b1dd422c9f5933c720ec3b36/artifacts
+end_time: 1675241982115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 983c0166b1dd422c9f5933c720ec3b36
+run_uuid: 983c0166b1dd422c9f5933c720ec3b36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675241980297
+status: 3
+tags: []
+user_id: adaltas

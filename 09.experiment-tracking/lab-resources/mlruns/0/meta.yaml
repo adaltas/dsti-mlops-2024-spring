@@ -1,0 +1,4 @@
+artifact_location: file:///home/adaltas/Documents/teaching_material/mlops/modules/08.experiment-tracking/lab-resources/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: Default
