@@ -137,3 +137,9 @@ Provides from basic issue tracking to scrum and kanban style
 - One Flow
 
 [Read more](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+
+## Resources
+
+- [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Gitkraken-GUI tool for interacting with GIT-based repos](https://www.gitkraken.com/)
+- [Github Student Devloper Pack-Sign up link for student access to various git tools for github](https://education.github.com/pack)
