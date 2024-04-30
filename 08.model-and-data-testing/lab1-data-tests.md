@@ -14,7 +14,7 @@ Now we know how to version the data, the models, the environment, and how link i
   - Exercises (start with this one): `testing_initial.ipynb`
   - Solutions (check out if you're stuck): `testing_final.ipynb`
 - Dataset: `wine_synthetic.csv`
-- Install: `pip install -U pytest`, `pip install pandas-profiling` (if it doesn't work, try `conda install -c conda-forge pandas-profiling`), `pip install ipywidgets`, `pip install ipytest` (the last one enables you to run pytest in a notebook), `pip install notebook`
+- Install: `pip install -U pytest`, `pip install ydata_profiling`, `pip install ipywidgets`, `pip install ipytest` (the last one enables you to run pytest in a notebook), `pip install notebook`
 
 **Instructions:**
 
@@ -23,7 +23,7 @@ Now we know how to version the data, the models, the environment, and how link i
 3. Download the notebook and the dataset
 4. Start Jupyter Notebook: `jupyter notebook`
 5. Follow the notebook with the following exercises:
-  - `pandas-profiling`:
+  - `ydata_profiling`:
     - Generate the reports about the datasets
     - Explore them to see how they can help you getting the insights about the data
     - How could you combine them with DVC and Git (data versioning)?
