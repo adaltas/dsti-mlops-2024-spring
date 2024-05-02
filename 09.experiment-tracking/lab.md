@@ -12,7 +12,7 @@
 
 **Instructions:**
 
-1. Install `mlflow`and `sklearn` to your virtual environment: `pip install mlflow sklearn`.
+1. Install `mlflow`and `scikit-learn` to your virtual environment: `pip install mlflow scikit-learn`.
 2. Open the `initial_elasticnet.ipynb` with jupyter. Here, you save the metrics of the model in a text file. You can imagine that you could also add additional information about the training and this could be a simple way of implementing experiment tracking. However, the file is overwritten for every run (you would need to add a timestamp to a file name). Even if you do that, imagine how tedious would be to retreive the information. 
 3. Modify the notebook to track the model metrics and run information with `mlflow`. Help yourself with the [documentation](https://mlflow.org/docs/latest/tracking.html#id63).
 4. Test the different parameters of the model.
