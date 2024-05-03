@@ -161,7 +161,7 @@ When you run it, it should return a list with predictions. If you get an error s
 
 ##### Create your account
 
-First crate you account. You have two options:
+First create you account. You have two options:
 
 - [Student account](https://azure.microsoft.com/en-us/free/students/) povides 100$ credits available for 1 year.
 - [Free trial account](https://azure.microsoft.com/en-us/free/) povides 200$ credits available for 1 month.
